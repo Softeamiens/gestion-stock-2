@@ -4,7 +4,7 @@ Langage : Java · Framework : Spring Boot · Difficulté : intermediate · Duré
 # Contexte
 Vous êtes chargé de développer le backend d'un système de gestion de stock pour un entrepôt logistique. L'entrepôt stocke des produits identifiés par référence, avec des quantités et emplacements. Les opérations quotidiennes incluent l'ajout de produits, les mouvements de stock (entrées/sorties) et la consultation des niveaux. Le système doit garantir l'intégrité des données et alerter en cas de stock insuffisant.
  
-Objectifs pédagogiques
+# Objectifs pédagogiques
 Concevoir une API REST respectant les conventions RESTful
 Implémenter la persistance avec JPA/Hibernate et gérer les relations
 Appliquer la validation des données avec Bean Validation
