@@ -1,4 +1,4 @@
-Gestion de stock d'entrepôt
+# Gestion de stock d'entrepôt
 Langage : Java · Framework : Spring Boot · Difficulté : intermediate · Durée estimée : 180 min
  
 Contexte
